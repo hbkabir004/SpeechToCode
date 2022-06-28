@@ -1,11 +1,18 @@
 <!-- PROJECT LOGO -->
-<br />
+<br>
 <p align="center">
   <a href="https://github.com/hbkabir004/SpeechToCode">
     <img src="images/me.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">An web automation application using Web Sppechrecognition API</h3>
+<br>
+
+## MDN Documentation of Web Sppechrecognition API
+
+```sh
+   https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
+```
 
 <!-- Installation Instruction -->
 
