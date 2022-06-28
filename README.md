@@ -5,10 +5,10 @@
     <img src="images/me.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">An web automation application using Web Sppech Recognition API</h3>
+  <h3 align="center">An web automation application using Web Speech Recognition API</h3>
 <br>
 
-## MDN Documentation of Web Sppech Recognition API
+## MDN Documentation of Web Speech Recognition API
 
 ```sh
    https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
