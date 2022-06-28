@@ -5,10 +5,10 @@
     <img src="images/me.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">An web automation application using Web Sppechrecognition API</h3>
+  <h3 align="center">An web automation application using Web Sppech Recognition API</h3>
 <br>
 
-## MDN Documentation of Web Sppechrecognition API
+## MDN Documentation of Web Sppech Recognition API
 
 ```sh
    https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
@@ -25,6 +25,8 @@
 2. Install Dev Dependencies
    ```sh
    npm install --global yarn
+   ```
+   ```sh
    yarn
    ```
 3. Run the 'index.html' file in any Chromium Browser (Google Chrome, Brave).
